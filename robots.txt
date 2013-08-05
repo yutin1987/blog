@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://yutin1987.github.io/blog/sitemap.xml 
